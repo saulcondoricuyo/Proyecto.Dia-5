@@ -1,0 +1,32 @@
+*{
+    margin: o;
+    padding: 0;
+}
+
+
+
+body{
+    background-color: #0d1a2c;
+    height: 100vh;
+    border: solid orange;
+    text-align: center;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div{
+    background-color: #15273f;
+    width: 400px;
+    height: 500px;border-radius: 20px;
+    margin: auto;
+    text-align: center;
+    padding-top: 30px;
+}
+
+
+img{
+    border: solid red;
+    border-radius: 20px;
+    width: 300px;
+
+}
